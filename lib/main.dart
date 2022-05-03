@@ -10,7 +10,7 @@ class LicenciasApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'App para Licencias V2',
+        title: 'App para Licencias Version 2',
         theme: ThemeData(
           primarySwatch: Colors.teal,
         ),
